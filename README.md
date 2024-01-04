@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-A <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="https://github.com/tauri-apps/tauri">tauri</a>.
+A <a href="https://web.archive.org/web/20231102134434/https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="https://github.com/tauri-apps/tauri">tauri</a>.
 </h3>
 
 ## Features
@@ -43,7 +43,7 @@ You should install Rust and Nodejs, see [here](https://tauri.app/v1/guides/getti
 pnpm i
 ```
 
-Then download the clash binary... Or you can download it from [clash premium release](https://github.com/Dreamacro/clash/releases/tag/premium) and rename it according to [tauri config](https://tauri.studio/docs/api/config/#tauri.bundle.externalBin).
+Then download the clash binary... Or you can download it from [clash premium release](https://web.archive.org/web/20231102080544/https://github.com/Dreamacro/clash/releases) and rename it according to [tauri config](https://tauri.studio/docs/api/config/#tauri.bundle.externalBin).
 
 ```shell
 # force update to latest version
@@ -85,9 +85,9 @@ Clash Nyanpasu was based on or inspired by these projects and so on:
 
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge): A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
-- [Dreamacro/clash](https://github.com/Dreamacro/clash): A rule-based tunnel in Go.
+- [Dreamacro/clash](https://web.archive.org/web/20231102134434/https://github.com/Dreamacro/clash): A rule-based tunnel in Go.
 - [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta): A rule-based tunnel in Go.
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg): A Windows/macOS GUI based on Clash.
+- [Fndroid/clash_for_windows_pkg](https://web.archive.org/web/20231030023332/https://github.com/Fndroid/clash_for_windows_pkg): A Windows/macOS GUI based on Clash.
 - [vitejs/vite](https://github.com/vitejs/vite): Next generation frontend tooling. It's fast!
 
 ## License
