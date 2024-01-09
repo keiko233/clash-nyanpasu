@@ -68,7 +68,7 @@ runas = "=1.0.0" # blocked by https://github.com/mitsuhiko/rust-runas/issues/13
 
 [target.'cfg(windows)'.dependencies]
 deelevate = "0.2.0"
-winreg = { version = "0.50", features = ["transactions"] }
+winreg = { version = "0.52", features = ["transactions"] }
 windows-sys = { version = "0.48", features = [
   "Win32_System_LibraryLoader",
   "Win32_System_SystemInformation",
