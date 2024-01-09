@@ -16,7 +16,7 @@ simd-json = "0.13"
 
 [dependencies]
 warp = "0.3"
-which = "4.4.2"
+which = "5.0.0"
 anyhow = "1.0"
 dirs = "5.0.1"
 open = "5.0.1"
